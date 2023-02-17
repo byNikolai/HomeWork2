@@ -107,7 +107,7 @@ public class Main {
         var overallWorkingTimeTwo = workersCapacityTwo * 8;
         System.out.println("Если в компании работает " + workersCapacityTwo + " человек, то всего " + overallWorkingTimeTwo + " часов работы может быть поделено между сотрудниками");
         var differenceInHourCapacity = overallWorkingTimeTwo - overallWorkingTimeOne;
-        System.out.println(differenceInHourCapacity + " часа можно добавить всвязи с пополнением штата");
+        System.out.println(differenceInHourCapacity + " часа нужно добавить всвязи с пополнением штата");
         //В задании 8 было сказано, что нужно использовать функцию вычитания
             // в самой задаче она вроде как не нужна, поэтому я отсебя добавил ее, что бюы была
     }
